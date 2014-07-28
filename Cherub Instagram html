@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    
+	<!--TITLE THAT APPEARS IN BROWSWER WINDOW TAB-->
+	<title>Emi Myers</title>
+	
+    <!-- Bootstrap CSS-->
+    <link rel="stylesheet" href="css/bootstrap.css">
+	
+    <!-- Project CSS-->
+    <link rel="stylesheet" href="css/instagramcss.css">
+    
+	<!-- ICON THAT APPEARS IN BROWSWER WINDOW TAB-->
+    <!--<link rel="shortcut icon" href="IMAGE LOCATION">-->
+	
+	<!--GOOGLE FONTS-->
+	<link href='http://fonts.googleapis.com/css?family=Roboto:400,900' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Satisfy' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400italic' rel='stylesheet' type='text/css'>
+	
+	<!--Font awesome-->
+	<link rel="stylesheet" href="font-awesome-4.1.0/css/font-awesome.min.css">
+	
+  </head>
+  
+  <body>
+
+		
+    <!--Pattern HTML-->
+  <div class="row">
+  	<div class="span12">
+  		<h1 style="text-align:center;">Cherub Instagrams</h1>
+  		<h4 style="text-align:center;"><p> Throughout the program, cherubs document their experiences in a variety of ways. One of the most popular is Instagram. Here is a collection of photos of some memorable moments taken right from the source, cherubs themselves. </p><h4>
+  	</div>
+  </div>
+  
+  <div id="pattern" class="pattern">
+  	<ul class="g">
+  
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/AGORAKIS_zps6c5ad223.png" alt="Image not available" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/67307735-6edf-4866-a384-31921f055aef_zpsf4b34a2b.png?t=1406571394" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/e59bcbe0-a02a-4129-88ba-67abc011476a_zpsd8e8c70d.png?t=1406571509" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/ZHU_zps54ed7b80.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/WANG_zpsfdd64919.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/SONG_zpsc65d9669.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/f960d7c6-699e-4dd8-9b9c-50fa310bb16d_zpsa65aa8d6.png?t=1406571680" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/7157cdbf-0ad7-4cc4-8f76-8f2130b7aac8_zps9e074919.png?t=1406571765" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/f09c70ea-a9b4-41ec-9b81-7e726165259a_zps2c82ada3.png?t=1406571864" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/b74f4e1f-7c68-4726-a4c9-fdd3bff25fe3_zps015ee3b5.png?t=1406571948" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/SCHONBERGER_zps466ebaa2.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/SHORT_zps5b89465d.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/NGUYEN_zpsec457437.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/ROGERS_zpsff9f22b9.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/PAZ_zps85640627.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/KAMINSKY_zps372be42f.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/PEELOR2_zpsdc17fd63.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/KARNAZE_zpsb6082608.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/PARK_zps7bbb5ed3.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/LAFAKIS_zpsd482535e.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/CZAJKA_zpsaaf92ebb.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/MIDDLEKAUFF_zpsbf66fd9d.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/JUDE_zpsf11dd01d.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/KLEIN_zps96a56ae6.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/KATSIKAS_zps57b93ff5.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/HOPPER_zps3d3c43bb.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/ALLEN-NIESEN_zps545b4456.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/GRAVA_zps37299da1.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/CEBULSKI_zpse7b32051.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/ALSAWWAF_zpsc9ce6b77.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/ELIAHOU_zpsfb125079.png" alt="Product Name" /></a></li>
+			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/DYLAN_zps884b7ef6.png" alt="Product Name" /></a></li>
+			<!--DWYER--> <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/9012231a-c212-4a80-aa51-0c6dd9a69557_zps13a01f89.png?t=1406572561" alt="Product Name" /></a></li>
+			
+
+			</div>
+		</ul>
+	</div>
+	<!--End Pattern HTML-->
+	
