@@ -8,7 +8,7 @@
     <meta name="apple-touch-fullscreen" content="yes">
     
 	<!--TITLE THAT APPEARS IN BROWSWER WINDOW TAB-->
-	<title>Emi Myers</title>
+	<title>Medill Cherubs</title>
 	
     <!-- Bootstrap CSS-->
     <link rel="stylesheet" href="css/bootstrap.css">
@@ -19,13 +19,7 @@
 	<!-- ICON THAT APPEARS IN BROWSWER WINDOW TAB-->
     <!--<link rel="shortcut icon" href="IMAGE LOCATION">-->
 	
-	<!--GOOGLE FONTS-->
-	<link href='http://fonts.googleapis.com/css?family=Roboto:400,900' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Satisfy' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400italic' rel='stylesheet' type='text/css'>
-	
-	<!--Font awesome-->
-	<link rel="stylesheet" href="font-awesome-4.1.0/css/font-awesome.min.css">
+
 	
   </head>
   
