@@ -1,83 +1,29 @@
-.g li{
-float:left;
-width: 300px;
-list-style-type: none;
-height: 290px;
+/*!
+	Write Custom CSS here
+*/
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+	font-size:#300
+	text-align: center;
 }
 
-.g img {
-			display: block;
-			max-width: 90%;
-			padding: 10px 10px 10px 10px;
-		}
-
-/*.body {
-
-}/*
-
-/* g {
-  		padding: 0.45em;
-			overflow: hidden;
-		}
-		.g li {
-			float: left;
-			width: 50%;
-			padding: 0.45em;
-			list-style-type: none;
-		}
-		.g img {
-			display: block;
-			max-width: 100%;
-		}
-		.g li:nth-child(odd) {
-			clear: left;
-		}
-	
-		@media screen and (min-width: 40em) {
-			.g li {
-		    	width: 33.3333333333333333%; 
-		  	}
-		  	.g li:nth-child(3n+1) {
-		  		clear: left;
-		  	}
-		  	.g li:nth-child(odd) {
-				clear: none;
-			}
-		}
-		@media screen and (min-width: 55em) {
-			.g li {
-		    	width: 25%; 
-		  	}
-		  	.g li:nth-child(4n+1) {
-		  		clear: left;
-		  	}
-		  	.g li:nth-child(3n+1) {
-				clear: none;
-			}
-		}
-		@media screen and (min-width: 72em) {
-			.g li {
-		    	width: 20%; 
-		  	}
-		  	.g li:nth-child(5n+1) {
-		  		clear: left;
-		  	}
-		  	.g li:nth-child(4n+1) {
-				clear: none;
-			}
-		}
-		@media screen and (min-width: 90em) {
-			.g li {
-		    	width: 16.666666666%; 
-		  	}
-		  	.g li:nth-child(6n+1) {
-		  		clear: left;
-		  	}
-		  	.g li:nth-child(5n+1) {
-				clear: none;
-			}
-		}
-	body {
+h2 {
+	color: #00797F;
+	text-decoration:underline;
 	text-align: left;
-	margin-left: 150px;
-}*/
+}
+
+p {
+	color: #00C2CC;
+}
+
+body {
+	padding-bottom: 40px;
+	text-align: left;
+	margin-left: 160px;
+}
+
+title {
+	text-align: center;
+}
