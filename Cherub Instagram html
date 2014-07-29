@@ -25,7 +25,7 @@
  	<link href='http://fonts.googleapis.com/css?family=SourceSansPro:400italic' rel='stylesheet' type='text/css'>
  	
  	<!--Font-->
- 	<link rel="stylesheet" href="font-awesome-4.1.0/css/font-awesome.min.css">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
  	
    </head>
    
@@ -36,7 +36,7 @@
    <div class="row">
    	<div class="span12">
    		<h1 style="text-align:center;">Cherub Instagrams</h1>
-        <h4 style="text-align:center;"><small><p> Throughout the program, cherubs document their experiences in a variety of ways. One of the most popular is Instagram. Here is a collection of photos of some memorable moments taken right from the source, cherubs themselves. Click on the pictures to visit the Instagram profiles of the 2014 cherubs.</p></small></h4>
+        <h4 style="text-align:center;"><small><p> Throughout their stay, cherubs document their experiences in a variety of ways. One of the most popular is Instagram. Here is a collection of photos of some memorable moments taken right from the source, cherubs themselves. Click on the pictures to visit the Instagram profiles of the 2014 cherubs.</p></small></h4>
    	</div>
    </div>
    
@@ -51,7 +51,7 @@
        <li><a href="http://instagram.com/p/qR7-LNuJlB/?modal=true" target="_blank"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/e5416a08-0d19-4b46-bd2c-2690e0970cb5_zps80851af9.png?t=1406644209" alt="Product Name" /></a></li> <!--CEBULSKI-->
        <li><a href="#" target="_blank"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/76d18ab6-bb6a-4d8a-8ca7-2e3fa86353c8_zps9aa717fa.png?t=1406644561" alt="Product Name" /></a></li> <!--WEATHERFORD PROTECTED-->
        <li><a href="#" target="_blank"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/5b5d7c7b-2e77-4114-9b05-711e2bcc4ea0_zps3c78d95d.png?t=1406644631" alt="Product Name" /></a></li> <!--PAZ PROTECTED-->
-       <li><a><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/DWYER_zps4fe721af.png" alt="Product Name" /></a></li> <!--DWYER PROTECTED-->
+       <li><a><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/9012231a-c212-4a80-aa51-0c6dd9a69557_zps13a01f89.png?t=1406572561" alt="Product Name" /></a></li> <!--DWYER PROTECTED-->
        <li><a href="http://instagram.com/p/qA3SG-Fsg7/?modal=true" target="_blank"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/DYLAN_zps48c1cc99.png" alt="Product Name" /></a></li>
        <li><a href="http://instagram.com/p/q0QepLh7df/?modal=true" target="_blank"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/0a75b969-8b51-490d-af22-0fdf9ea5c669_zpsfddcfde0.png?t=1406644892" alt="Product Name" /></a></li> <!--ROGERS-->
        <li><a><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/7ab53afc-80bb-4d6c-b0c3-55137589614a_zpsfa9d4fc6.png?t=1406649377" /></a></li> <!-- GLAZER PROTECTED-->
