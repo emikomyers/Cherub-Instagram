@@ -1,4 +1,20 @@
-.g {
+.g li{
+float:left;
+width: 300px;
+list-style-type: none;
+}
+
+.g img {
+			display: block;
+			max-width: 90%;
+			padding: 10px 10px 10px 10px;
+		}
+
+/*.body {
+
+}/*
+
+/* g {
   		padding: 0.45em;
 			overflow: hidden;
 		}
@@ -6,9 +22,11 @@
 			float: left;
 			width: 50%;
 			padding: 0.45em;
+			list-style-type: none;
 		}
 		.g img {
 			display: block;
+			max-width: 100%;
 		}
 		.g li:nth-child(odd) {
 			clear: left;
@@ -61,4 +79,4 @@
 	body {
 	text-align: left;
 	margin-left: 150px;
-}
+}*/
