@@ -1,79 +1,83 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-touch-fullscreen" content="yes">
+ <html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta name="apple-mobile-web-app-capable" content="yes">
+     <meta name="apple-touch-fullscreen" content="yes">
+     
+ 	<!--TITLE THAT APPEARS IN BROWSWER WINDOW TAB-->
+ 	<title>Cherubs Instas</title>
+ 	
+     <!-- Bootstrap CSS-->
+     <!-- <link rel="stylesheet" href="css/bootstrap.css"> -->
+ 	
+     <!-- Project CSS-->
+     <link rel="stylesheet" href="css/instagramcss.css">
+     
+ 	<!-- ICON THAT APPEARS IN BROWSWER WINDOW TAB-->
+     <!--<link rel="shortcut icon" href="IMAGE LOCATION">-->
+ 	
+ 	<!--GOOGLE FONTS-->
+ 	<link href='http://fonts.googleapis.com/css?family=Roboto:400,900' rel='stylesheet' type='text/css'>
+ 	<link href='http://fonts.googleapis.com/css?family=Satisfy' rel='stylesheet' type='text/css'>
+ 	<link href='http://fonts.googleapis.com/css?family=SourceSansPro:400italic' rel='stylesheet' type='text/css'>
+ 	
+ 	<!--Font-->
+ 	<link rel="stylesheet" href="font-awesome-4.1.0/css/font-awesome.min.css">
+ 	
+   </head>
+   
+   <body>
+ 
+ 		
+     <!--Pattern HTML-->
+   <div class="row">
+   	<div class="span12">
+   		<h1 style="text-align:center;">Cherub Instagrams</h1>
+        <h4 style="text-align:center;"><small><p> Throughout the program, cherubs document their experiences in a variety of ways. One of the most popular is Instagram. Here is a collection of photos of some memorable moments taken right from the source, cherubs themselves. </p></small></h4>
+   	</div>
+   </div>
+   
+   <div id="pattern" class="pattern">
+   	<ul class="g">
+   
+ 			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/NGUYEN_zps8f9ab4d9.png" alt="Image not available" /></a></li>
+ 			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/SONG_zpsd461612a.png" /></a></li>
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/RANGINANI_zps0a7bd777.png" alt="Product Name" /></a></li>
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/e5416a08-0d19-4b46-bd2c-2690e0970cb5_zps80851af9.png?t=1406644209" alt="Product Name" /></a></li> <!--CEBULSKI-->
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/76d18ab6-bb6a-4d8a-8ca7-2e3fa86353c8_zps9aa717fa.png?t=1406644561" alt="Product Name" /></a></li> <!--WEATHERFORD-->
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/5b5d7c7b-2e77-4114-9b05-711e2bcc4ea0_zps3c78d95d.png?t=1406644631" alt="Product Name" /></a></li> <!--PAZ-->
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/DWYER_zps4fe721af.png" alt="Product Name" /></a></li>
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/DYLAN_zps48c1cc99.png" alt="Product Name" /></a></li>
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/JUDE_zpsb14eb920.png" alt="Product Name" /></a></li>
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/KATSIKAS_zps8adbb526.png" alt="Product Name" /></a></li>
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/SCHONBERGER_zps15709b5f.png" alt="Product Name" /></a></li>
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/MIDDLEKAUFF_zpsa1b4bb41.png" alt="Product Name" /></a></li>
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/NGUYEN_zps0d516a3d.png" alt="Product Name" /></a></li>
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/60b6c037-648c-42a3-b546-8751ef2e8436_zps12884a9a.png?t=1406644731" alt="Product Name" /></a></li> <!--KAMINSKI-->
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/PEELOR2_zps84465574.png" alt="Product Name" /></a></li>
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/0f707e0e-1a69-477b-8114-ac778473b08b_zps50b55073.png?t=1406644808" alt="Product Name" /></a></li> <!--PEELOR BEAN-->
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/0a75b969-8b51-490d-af22-0fdf9ea5c669_zpsfddcfde0.png?t=1406644892" alt="Product Name" /></a></li> <!--ROGERS-->
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/e1dfba85-cca2-4a0b-8b62-d11c62881c0a_zpsa13e6a08.png?t=1406644971" alt="Product Name" /></a></li> <!--CZAJKA-->
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/30a38f4d-1c06-4e89-a517-b65338c33fcd_zps2eaf145e.png?t=1406645059" alt="Product Name" /></a></li> <!--AGORAKIS-->
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/SHORT_zps43d84fdc.png" alt="Product Name" /></a></li>
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/396d2fa3-ba50-4336-aaef-902fce175b3a_zps6cd0f59b.png?t=1406645161" alt="Product Name" /></a></li> <!--SNOW-->
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/ALLEN-NIESEN_zpsb7d7e08c.png" alt="Product Name" /></a></li>
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/ZHU_zpsf1168927.png" alt="Product Name" /></a></li>
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/PARK_zps35006699.png" alt="Product Name" /></a></li>
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/ALSAWWAF_zps91a4e557.png" alt="Product Name" /></a></li>
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/979ab05f-7699-4200-bc20-d81d66d04773_zps7f527699.png?t=1406645248" alt="Product Name" /></a></li> <!--SPERRY-->
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/1b0e656b-804f-47b3-9c8e-d3a2cddef82f_zps2405882a.png?t=1406645337" alt="Product Name" /></a></li> <!--WINGROVE-->
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/295dc122-5d37-486e-b609-483fed067497_zps41bcb192.png?t=1406645416" alt="Product Name" /></a></li> <!--HOPPER-->
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/5a30b948-075f-4b06-b16d-bf6765bfbd17_zps6df5c28e.png?t=1406645476" alt="Product Name" /></a></li> <!--KARNAZE-->
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/WANG_zpsbe7341e6.png" alt="Product Name" /></a></li>
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/de7e22ed-c72a-4cd3-9016-ac6789017afb_zps156ef1cf.png?t=1406645578" alt="Product Name" /></a></li> <!--KLEIN-->
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/8123dfec-428c-46b1-9aea-4e99739d2ce6_zps0092dc8c.png?t=1406645635" alt="Product Name" /></a></li> <!--LAFAKIS-->
+      <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/Cherub%20Instas%20True%20Squares/ELIAHOU_zpsa0bccae4.png" alt="Product Name" /></a></li>
+
     
-	<!--TITLE THAT APPEARS IN BROWSWER WINDOW TAB-->
-	<title>Medill Cherubs</title>
-	
-    <!-- Bootstrap CSS-->
-    <link rel="stylesheet" href="css/bootstrap.css">
-	
-    <!-- Project CSS-->
-    <link rel="stylesheet" href="css/instagramcss.css">
-    
-	<!-- ICON THAT APPEARS IN BROWSWER WINDOW TAB-->
-    <!--<link rel="shortcut icon" href="IMAGE LOCATION">-->
-	
-
-	
-  </head>
-  
-  <body>
-
-		
-    <!--Pattern HTML-->
-  <div class="row">
-  	<div class="span12">
-  		<h1 style="text-align:center;">Cherub Instagrams</h1>
-  		<h4 style="text-align:center;"><p> Throughout the program, cherubs document their experiences in a variety of ways. One of the most popular is Instagram. Here is a collection of photos of some memorable moments taken right from the source, cherubs themselves. </p><h4>
-  	</div>
-  </div>
-  
-  <div id="pattern" class="pattern">
-  	<ul class="g">
-  
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/AGORAKIS_zps6c5ad223.png" alt="Image not available" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/67307735-6edf-4866-a384-31921f055aef_zpsf4b34a2b.png?t=1406571394" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/e59bcbe0-a02a-4129-88ba-67abc011476a_zpsd8e8c70d.png?t=1406571509" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/ZHU_zps54ed7b80.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/WANG_zpsfdd64919.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/SONG_zpsc65d9669.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/f960d7c6-699e-4dd8-9b9c-50fa310bb16d_zpsa65aa8d6.png?t=1406571680" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/7157cdbf-0ad7-4cc4-8f76-8f2130b7aac8_zps9e074919.png?t=1406571765" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/f09c70ea-a9b4-41ec-9b81-7e726165259a_zps2c82ada3.png?t=1406571864" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/b74f4e1f-7c68-4726-a4c9-fdd3bff25fe3_zps015ee3b5.png?t=1406571948" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/SCHONBERGER_zps466ebaa2.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/SHORT_zps5b89465d.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/NGUYEN_zpsec457437.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/ROGERS_zpsff9f22b9.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/PAZ_zps85640627.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/KAMINSKY_zps372be42f.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/PEELOR2_zpsdc17fd63.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/KARNAZE_zpsb6082608.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/PARK_zps7bbb5ed3.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/LAFAKIS_zpsd482535e.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/CZAJKA_zpsaaf92ebb.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/MIDDLEKAUFF_zpsbf66fd9d.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/JUDE_zpsf11dd01d.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/KLEIN_zps96a56ae6.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/KATSIKAS_zps57b93ff5.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/HOPPER_zps3d3c43bb.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/ALLEN-NIESEN_zps545b4456.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/GRAVA_zps37299da1.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/CEBULSKI_zpse7b32051.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/ALSAWWAF_zpsc9ce6b77.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/ELIAHOU_zpsfb125079.png" alt="Product Name" /></a></li>
-			<li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/DYLAN_zps884b7ef6.png" alt="Product Name" /></a></li>
-			<!--DWYER--> <li><a href="#"><img src="http://i1382.photobucket.com/albums/ah253/emikomyers/9012231a-c212-4a80-aa51-0c6dd9a69557_zps13a01f89.png?t=1406572561" alt="Product Name" /></a></li>
-			
-
-			</div>
-		</ul>
-	</div>
-	<!--End Pattern HTML-->
-	
+ 	</ul>
+ </div>
+ 	<!--End-->
