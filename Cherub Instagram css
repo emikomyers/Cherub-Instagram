@@ -2,6 +2,7 @@
 float:left;
 width: 300px;
 list-style-type: none;
+height: 290px;
 }
 
 .g img {
